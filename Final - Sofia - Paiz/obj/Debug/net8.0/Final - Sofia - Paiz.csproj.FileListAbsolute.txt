@@ -1,0 +1,14 @@
+C:\Users\sofia\Final - Sofia - Paiz\bin\Debug\net8.0\Final - Sofia - Paiz.exe
+C:\Users\sofia\Final - Sofia - Paiz\bin\Debug\net8.0\Final - Sofia - Paiz.deps.json
+C:\Users\sofia\Final - Sofia - Paiz\bin\Debug\net8.0\Final - Sofia - Paiz.runtimeconfig.json
+C:\Users\sofia\Final - Sofia - Paiz\bin\Debug\net8.0\Final - Sofia - Paiz.dll
+C:\Users\sofia\Final - Sofia - Paiz\bin\Debug\net8.0\Final - Sofia - Paiz.pdb
+C:\Users\sofia\Final - Sofia - Paiz\obj\Debug\net8.0\Final - Sofia - Paiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\Final - Sofia - Paiz\obj\Debug\net8.0\Final - Sofia - Paiz.AssemblyInfoInputs.cache
+C:\Users\sofia\Final - Sofia - Paiz\obj\Debug\net8.0\Final - Sofia - Paiz.AssemblyInfo.cs
+C:\Users\sofia\Final - Sofia - Paiz\obj\Debug\net8.0\Final - Sofia - Paiz.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Final - Sofia - Paiz\obj\Debug\net8.0\Final - Sofia - Paiz.dll
+C:\Users\sofia\Final - Sofia - Paiz\obj\Debug\net8.0\refint\Final - Sofia - Paiz.dll
+C:\Users\sofia\Final - Sofia - Paiz\obj\Debug\net8.0\Final - Sofia - Paiz.pdb
+C:\Users\sofia\Final - Sofia - Paiz\obj\Debug\net8.0\Final - Sofia - Paiz.genruntimeconfig.cache
+C:\Users\sofia\Final - Sofia - Paiz\obj\Debug\net8.0\ref\Final - Sofia - Paiz.dll
